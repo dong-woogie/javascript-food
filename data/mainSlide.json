@@ -1,0 +1,22 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/Imdonguk/javascript-food/master/public/images/img-main-visual-slide_1.jpg",
+    "alt": "배송비 걱정은 NO 금, 토 한정 지금 주문하면 무료배송!!"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Imdonguk/javascript-food/master/public/images/img-main-visual-slide_2.jpg",
+    "alt": "매콤한 돼지갈비에 알밤쏙! 가을에는 가을다운 요리를 먹어요!!"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Imdonguk/javascript-food/master/public/images/img-main-visual-slide_3.jpg",
+    "alt": "쌀쌀한 초가을 찬바람 불땐 뜨끈한 보양식 한 그릇!!"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Imdonguk/javascript-food/master/public/images/img-main-visual-slide_4.jpg",
+    "alt": "한상차림부터 스무디까지 취향대로 고르는 아침메뉴!!"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Imdonguk/javascript-food/master/public/images/img-main-visual-slide_5.jpg",
+    "alt": "문자 수신 동의 하시면, 포인트 1천원 지급!!"
+  }
+]
