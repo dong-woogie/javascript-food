@@ -21,7 +21,8 @@ const _e = {
 };
 
 const contentURL = {
-  bestSeller: "http://crong.codesquad.kr:8080/woowa/best",
+  bestSeller:
+    "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/data/best.json",
   mainSlide:
     "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/data/mainSlide.json",
   subSlide:

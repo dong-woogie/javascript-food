@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Imdonguk/javascript-food.git"
+    "url": "git+https://github.com/dong-woogie/javascript-food.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Imdonguk/javascript-food/issues"
+    "url": "https://github.com/dong-woogie/javascript-food/issues"
   },
-  "homepage": "https://github.com/Imdonguk/javascript-food#readme",
+  "homepage": "https://github.com/dong-woogie/javascript-food#readme",
   "dependencies": {
     "express": "^4.16.4"
   }
