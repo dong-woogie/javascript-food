@@ -57,7 +57,7 @@ export default class TabView {
   }
 
   getUrl(category_no) {
-    return this.url + "/" + category_no + ".json";
+    return this.url.replace("best.json", category_no + ".json");
   }
 
   getCategoryNo(target) {

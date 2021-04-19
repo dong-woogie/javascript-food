@@ -27,7 +27,7 @@ function delivery(delivery_type) {
 
 function foodImg(image, alt, delivery_type) {
   return `<div class="food-img">
-                <img src="${image}" alt="${alt}">
+                <img src="${image}" alt="${alt}" style="width : 100%; height : 100%;">
                 <div class="dark-background"></div>
                 <div class="delivery">
                     ${delivery(delivery_type)}
