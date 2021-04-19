@@ -1,0 +1,33 @@
+{
+  "category_id": "17011400",
+  "name": "우리아이영양반찬",
+  "items": [
+    {
+      "detail_hash": "H82A2",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/ramyun.jpg",
+      "alt": "[빅마마의밥친구] 입맛감각 살려주는 유부토마토조림 200g",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[빅마마의밥친구] 입맛감각 살려주는 유부토마토조림 200g",
+      "description": "아이반찬과 다이어트 반찬으로 일석이조!",
+      "s_price": "4,900원"
+    },
+    {
+      "detail_hash": "H213E",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.jpg",
+      "alt": "[동네부엌] 수제미트볼조림 300g",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[동네부엌] 수제미트볼조림 300g",
+      "description": "재료부터 다른 수제미트볼조림",
+      "s_price": "8,700원"
+    },
+    {
+      "detail_hash": "H7A16",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/htm_20150723103435759.jpg",
+      "alt": "[Young313] 흰살생선 된장소스구이 200g",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[Young313] 흰살생선 된장소스구이 200g",
+      "description": "부드러운 명태살을 이용한 특별한 생선요리",
+      "s_price": "9,000원"
+    }
+  ]
+}

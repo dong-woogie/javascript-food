@@ -1,9 +1,10 @@
-import { slideTpl } from "../../template/slideTpl.js";
+import { mainSlideTpl, slideTpl } from "../../template/slideTpl.js";
 import { throttle } from "../../util.js";
 export default class SlideContent {
-  constructor({ slideListEl, naviEl }) {
+  constructor({ slideListEl, naviEl, main }) {
     this.slideListEl = slideListEl;
     this.naviEl = naviEl;
+    this.main = main;
   }
 
   init(idx) {
@@ -41,7 +42,7 @@ export default class SlideContent {
   }
 
   render(element, data) {
-    element.innerHTML = slideTpl(data);
+    element.innerHTML = this.main ? mainSlideTpl(data) : slideTpl(data);
   }
 
   setContentData(contentData) {

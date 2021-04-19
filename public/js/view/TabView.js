@@ -16,9 +16,9 @@ export default class TabView {
       },
       load: () => {
         document.body.addEventListener("load", this.init.bind(this));
-      }
+      },
     };
-    Object.keys(event).forEach(v => event[v]());
+    Object.keys(event).forEach((v) => event[v]());
   }
 
   async clickTabHandler({ target }) {
@@ -57,7 +57,7 @@ export default class TabView {
   }
 
   getUrl(category_no) {
-    return this.url + "/" + category_no;
+    return this.url + "/" + category_no + ".json";
   }
 
   getCategoryNo(target) {

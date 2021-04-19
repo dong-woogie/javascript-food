@@ -1,0 +1,37 @@
+{
+  "category_id": "17010200",
+  "name": "편리한 반찬세트",
+  "items": [
+    {
+      "detail_hash": "E055F",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/htm_20150723103435759.jpg",
+      "alt": "[동네부엌] 사계절 건강식단 작은상",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[동네부엌] 사계절 건강식단 작은상",
+      "description": "마포엄마들이 사랑해온 건강반찬",
+      "s_price": "24,000원",
+      "badge": ["베스트"]
+    },
+    {
+      "detail_hash": "FDAEB",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/05c2f8eae6b2b7e38817393c492d8c28_1602644186.jpg",
+      "alt": "[집밥의완성] 한상 가득 세트 (3~4인)",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[집밥의완성] 한상 가득 세트 (3~4인)",
+      "description": "식단 정기배송으로 반찬고민 끝",
+      "s_price": "32,000원",
+      "badge": ["베스트"]
+    },
+    {
+      "detail_hash": "H762E",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/032f8d223cb1413c89e5e8d7bf63bc96.jpg",
+      "alt": "[옹가솜씨] 한끼뚝딱세트",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[옹가솜씨] 한끼뚝딱세트",
+      "description": "한 세트만 있으면 한 끼 뚝딱",
+      "n_price": "19,500",
+      "s_price": "17,500원",
+      "badge": ["이벤트특가"]
+    }
+  ]
+}

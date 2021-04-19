@@ -1,0 +1,35 @@
+{
+  "category_id": "17011100",
+  "name": "바다향가득 반찬",
+  "items": [
+    {
+      "detail_hash": "H4AAA",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/ramyun.jpg",
+      "alt": "[아내의쉐프] 아쉐찜닭",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[아내의쉐프] 아쉐찜닭",
+      "description": "아내의쉐프가 자신 있게 만들어서 이름도 '아쉐찜닭'입니다",
+      "n_price": "11,900",
+      "s_price": "10,700원",
+      "badge": ["이벤트특가", "론칭특가"]
+    },
+    {
+      "detail_hash": "H206E",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.jpg",
+      "alt": "[남도애꽃] 통오징어초롱 300g",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[남도애꽃] 통오징어초롱 300g",
+      "description": "국내산 오징어를 통째로 불맛소스와 함께",
+      "s_price": "11,000원"
+    },
+    {
+      "detail_hash": "HA8B9",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/bibim.jpg",
+      "alt": "[황태종가] 황태양념구이 300g",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[황태종가] 황태양념구이 300g",
+      "description": "청정 황태마을 인제에서 온 깊은 맛",
+      "s_price": "12,000원"
+    }
+  ]
+}

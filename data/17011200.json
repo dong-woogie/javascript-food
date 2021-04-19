@@ -1,0 +1,39 @@
+{
+  "category_id": "17011200",
+  "name": "할인특가 세트상품",
+  "items": [
+    {
+      "detail_hash": "H9881",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/htm_20150723103435759.jpg",
+      "alt": "[소중한식사] 경상도 한상차림",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[소중한식사] 경상도 한상차림",
+      "description": "경상도 명물 요리 세 가지를 한 상에!",
+      "n_price": "39,000",
+      "s_price": "31,200원",
+      "badge": ["이벤트특가"]
+    },
+    {
+      "detail_hash": "HDF4C",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/05c2f8eae6b2b7e38817393c492d8c28_1602644186.jpg",
+      "alt": "[딩고] 시그니처 3종 SET",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[딩고] 시그니처 3종 SET",
+      "description": "오늘 저녁은 이상하게 안주빨을 세워보고 싶다!",
+      "n_price": "32,800",
+      "s_price": "24,000원",
+      "badge": ["이벤트특가"]
+    },
+    {
+      "detail_hash": "H7F20",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/032f8d223cb1413c89e5e8d7bf63bc96.jpg",
+      "alt": "[집밥의완성]초여름보양세트",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[집밥의완성]초여름보양세트",
+      "description": "무더위에 대비하는 6월 한상차림 초여름 보양세트",
+      "n_price": "26,000",
+      "s_price": "18,200원",
+      "badge": ["이벤트특가"]
+    }
+  ]
+}

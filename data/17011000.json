@@ -1,0 +1,38 @@
+{
+  "category_id": "17011000",
+  "name": "풍성한 고기반찬",
+  "items": [
+    {
+      "detail_hash": "HA567",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/911811_540.jpg",
+      "alt": "[아내의쉐프] 아쉐찜닭",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[아내의쉐프] 아쉐찜닭",
+      "description": "아내의쉐프가 자신 있게 만들어서 이름도 '아쉐찜닭'입니다",
+      "n_price": "11,900",
+      "s_price": "10,700원",
+      "badge": ["이벤트특가", "론칭특가"]
+    },
+    {
+      "detail_hash": "H206E",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/images.jpg",
+      "alt": "[애슐리투고] 로스트 콤보 450g",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[애슐리투고] 로스트 콤보 450g",
+      "description": "립과 치킨이 만나  더욱 맛있게",
+      "s_price": "10,900원",
+      "badge": ["론칭특가"]
+    },
+    {
+      "detail_hash": "H75A2",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/l_2019053101003584700279572.jpg",
+      "alt": "[한옥집]소갈비김치찜 2인분",
+      "delivery_type": ["새벽배송", "전국택배"],
+      "title": "[한옥집]소갈비김치찜 2인분",
+      "description": "부드러운 소갈비와 함께 푹 쪄낸 김치찜!",
+      "n_price": "16,500",
+      "s_price": "14,850원",
+      "badge": ["이벤트특가"]
+    }
+  ]
+}

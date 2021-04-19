@@ -55,7 +55,7 @@
   },
   {
     "detail_hash": "H296C",
-    "image": "https://github.com/dong-woogie/javascript-food/blob/master/public/images/Tteokgalbi-with-mushroom_00.png",
+    "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.png",
     "alt": "[아내의쉐프] 낙새볶음 (570g 내외)",
     "delivery_type": ["새벽배송", "전국택배"],
     "title": "[아내의쉐프] 낙새볶음 (570g 내외)",
@@ -88,7 +88,7 @@
   },
   {
     "detail_hash": "HBDEF",
-    "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/sokoki.jpg",
+    "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/sokoki.jpeg",
     "alt": "[미노리키친] 규동 250g",
     "delivery_type": ["새벽배송", "전국택배"],
     "title": "[미노리키친] 규동 250g",

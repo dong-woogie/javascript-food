@@ -46,6 +46,7 @@ const tabView = new TabView({
 const mainSlideContent = new SlideContent({
   slideListEl: _e.mainSlide.querySelector(".slide-list"),
   naviEl: _e.mainSlide.querySelector(".slides-navi"),
+  main: true,
 });
 const mainSlideDots = new SlideDots({
   dotListEl: _e.mainSlide.querySelector(".slide-dots"),
@@ -60,6 +61,7 @@ const mainSlideContoller = new SlideController({
 const subSlideContent = new SlideContent({
   slideListEl: _e.subSlide.querySelector(".slide-list"),
   naviEl: _e.subSlide.querySelector(".slides-navi"),
+  main: false,
 });
 const subSlideDots = new SlideDots({
   dotListEl: _e.subSlide.querySelector(".slide-dots"),
