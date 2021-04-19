@@ -4,7 +4,7 @@
   "items": [
     {
       "detail_hash": "H82A2",
-      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/ramyun.jpg",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/ramyun.jpeg",
       "alt": "[빅마마의밥친구] 입맛감각 살려주는 유부토마토조림 200g",
       "delivery_type": ["새벽배송", "전국택배"],
       "title": "[빅마마의밥친구] 입맛감각 살려주는 유부토마토조림 200g",
@@ -13,7 +13,7 @@
     },
     {
       "detail_hash": "H213E",
-      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.jpg",
+      "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.png",
       "alt": "[동네부엌] 수제미트볼조림 300g",
       "delivery_type": ["새벽배송", "전국택배"],
       "title": "[동네부엌] 수제미트볼조림 300g",

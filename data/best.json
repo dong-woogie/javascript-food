@@ -55,7 +55,7 @@
       },
       {
         "detail_hash": "H206E",
-        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/images.jpg",
+        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/images.jpeg",
         "alt": "[애슐리투고] 로스트 콤보 450g",
         "delivery_type": ["새벽배송", "전국택배"],
         "title": "[애슐리투고] 로스트 콤보 450g",
@@ -82,7 +82,7 @@
     "items": [
       {
         "detail_hash": "H4AAA",
-        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/ramyun.jpg",
+        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/ramyun.jpeg",
         "alt": "[아내의쉐프] 아쉐찜닭",
         "delivery_type": ["새벽배송", "전국택배"],
         "title": "[아내의쉐프] 아쉐찜닭",
@@ -93,7 +93,7 @@
       },
       {
         "detail_hash": "H206E",
-        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.jpg",
+        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.png",
         "alt": "[남도애꽃] 통오징어초롱 300g",
         "delivery_type": ["새벽배송", "전국택배"],
         "title": "[남도애꽃] 통오징어초롱 300g",
@@ -102,7 +102,7 @@
       },
       {
         "detail_hash": "HA8B9",
-        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/bibim.jpg",
+        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/bibim.jpeg",
         "alt": "[황태종가] 황태양념구이 300g",
         "delivery_type": ["새벽배송", "전국택배"],
         "title": "[황태종가] 황태양념구이 300g",
@@ -163,7 +163,7 @@
       },
       {
         "detail_hash": "H0699",
-        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/images.jpg",
+        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/images.jpeg",
         "alt": "[무명식당]뿌리채소비빔밥 2인분",
         "delivery_type": ["새벽배송", "전국택배"],
         "title": "[무명식당]뿌리채소비빔밥 2인분",
@@ -191,7 +191,7 @@
     "items": [
       {
         "detail_hash": "H82A2",
-        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/ramyun.jpg",
+        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/ramyun.jpeg",
         "alt": "[빅마마의밥친구] 입맛감각 살려주는 유부토마토조림 200g",
         "delivery_type": ["새벽배송", "전국택배"],
         "title": "[빅마마의밥친구] 입맛감각 살려주는 유부토마토조림 200g",
@@ -200,7 +200,7 @@
       },
       {
         "detail_hash": "H213E",
-        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.jpg",
+        "image": "https://raw.githubusercontent.com/dong-woogie/javascript-food/master/public/images/Tteokgalbi-with-mushroom_00.png",
         "alt": "[동네부엌] 수제미트볼조림 300g",
         "delivery_type": ["새벽배송", "전국택배"],
         "title": "[동네부엌] 수제미트볼조림 300g",
